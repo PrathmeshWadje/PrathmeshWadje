@@ -1,5 +1,3 @@
-![](https://images-ext-1.discordapp.net/external/3ANAUevUGiuuWt4fLvPCG6ZNb2peh87rxoajCy1sBE4/https/pbs.twimg.com/profile_banners/1570753275510788101/1663331971/1500x500?width=1440&height=480)
-
 # Hi 👋 I'm Prathmesh Wadje
 
 ```json
