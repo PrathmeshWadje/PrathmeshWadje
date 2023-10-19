@@ -8,11 +8,11 @@
   "tech_stack" : {
     "os" : ["Windows", "Ubuntu"],
     "editor" : ["Visual Studio Code"],
-    "Languages/Frameworks" : ["Python", "R", "Java", "C++", "ReactJS", "Django", "Flask"],
+    "Languages/Frameworks" : ["Python", "C++", "Java", "R", "ReactJS", "Django", "Flask"],
     "cloud" : ["Google Cloud", "AWS"],
     "Infrastructure Tools": ["Kubernetes", "Docker"],
     "Database": ["MySQL", "PostgreSQL"],
-    "Other Tools": ["Git/GitHub", "GitLab CI/CD", "GitHub Actions", "Jenkins", "Postman", "Vagrant", "Ansible"]
+    "Other Tools": ["Git/GitHub", "GitHub Actions", "Jenkins", "Postman", "Vagrant", "Ansible", "GitLab CI/CD"]
   }
 }
 ```
