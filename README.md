@@ -4,15 +4,15 @@
 {
   "name" : "Prathmesh Wadje",
   "pronouns" : "He/Him",
-  "role" : ["Aspring Data Scientist", "GDSC Lead"],
+  "role" : ["DevOps Enthusiast", "GDSC Community Lead '22", "GDSC Cloud Lead '23"],
   "tech_stack" : {
-    "os" : ["Windows", "Zorin OS PRO"],
-    "editor" : ["Visual Studio Code", "Pycharm"],
-    "cloud" : ["heroku"],
-    "library" : ["pandas", "matplotlib", "seaborn", "scikit-learn"],
-    "frontend" : ["HTML", "CSS", "Bootstrap", "TailwindCSS"],
-    "database" : ["MySQL", "PostgreSQL", "MongoDB"],
-    "backend" : ["Django", "Flask"],
+    "os" : ["Windows", "Ubuntu"],
+    "editor" : ["Visual Studio Code"],
+    "Languages/Frameworks" : ["Python", "R", "Java", "C++", "ReactJS", "Django", "Flask"],
+    "cloud" : ["Google Cloud", "AWS"],
+    "Infrastructure Tools": ["Kubernetes", "Docker"],
+    "Database": ["MySQL", "PostgreSQL"],
+    "Other Tools": ["Git/GitHub", "GitLab CI/CD", "GitHub Actions", "Jenkins", "Postman", "Vagrant", "Ansible"]
   }
 }
 ```
