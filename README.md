@@ -2,14 +2,14 @@
 
 ```json
 {
-  "name" : "Prathmesh Wadje",
-  "pronouns" : "He/Him",
-  "role" : ["DevOps Enthusiast", "GDSC Community Lead '22", "GDSC Cloud Lead '23"],
-  "tech_stack" : {
-    "os" : ["Windows", "Ubuntu"],
-    "editor" : ["Visual Studio Code"],
+  "Name" : "Prathmesh Wadje",
+  "Pronouns" : "He/Him",
+  "Role" : ["DevOps Enthusiast", "GDSC Community Lead '22", "GDSC Cloud Lead '23"],
+  "Tech_Stack" : {
+    "OS" : ["Windows", "Ubuntu"],
+    "Editor" : ["Visual Studio Code"],
     "Languages/Frameworks" : ["Python", "C++", "Java", "R", "ReactJS", "Django", "Flask"],
-    "cloud" : ["Google Cloud", "AWS"],
+    "Cloud" : ["Google Cloud", "AWS"],
     "Infrastructure Tools": ["Kubernetes", "Docker"],
     "Database": ["MySQL", "PostgreSQL"],
     "Other Tools": ["Git/GitHub", "GitHub Actions", "Jenkins", "Postman", "Vagrant", "Ansible", "GitLab CI/CD"]
