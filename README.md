@@ -27,13 +27,3 @@
 )](mailto:wadjeprathmesh@gmail.com)
 
 [![Discord](https://discord.c99.nl/widget/theme-3/936585091231146034.png)](https://discord.com/users/936585091231146034)
-
-[![](https://custom-icon-badges.herokuapp.com/github/followers/PrathmeshWadje?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white%22/%3E%3C/a%3E%20%3Ca%20href=%22https://github.com/PrathmeshWadje)](https://github.com/PrathmeshWadje?tab=followers)
-[![](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FPrathmeshWadje)](https://github.com/PrathmeshWadje?tab=repositories&sort=stargazers)
-
-## 📈 Github Stats
-> *The following stats do not count my private contributions.*
-
-[![Streak Stats](http://github-readme-streak-stats.herokuapp.com/?user=PrathmeshWadje&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/PrathmeshWadje)
-[![Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrathmeshWadje&show_icons=true&include_all_commits=true&count_private=true&theme=react)](https://github.com/PrathmeshWadje)
-[![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshWadje&langs_count=8&layout=compact&theme=react)](https://github.com/PrathmeshWadje)
